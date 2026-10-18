@@ -87,7 +87,6 @@ PRODUCT_PACKAGES += \
     libmwqemiptablemgr \
     libqmi_cci_system \
     libqmi_encdec_system \
-    libtrigger-handler \
     libupdateprof.qti \
     vendor.qti.ImsRtpService-V1-ndk \
     vendor.qti.ImsRtpService-V2-ndk \
